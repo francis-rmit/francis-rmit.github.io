@@ -6,7 +6,7 @@
   * {
     box-sizing:border-box;
   }
-<body>{
+ body {
      font-family: Arial;
      padding: 200px;
      background: lightgrey;
@@ -32,9 +32,61 @@
   width: 68%;
   height: 50%;
   padding-left: 10px;
-  padding-bottom: 10px;
+  }
+.card {
+  background-color: lightgrey;
+  padding: 10px;
+  margin-bottom: :10px;
+
+  }
+
+.row:after {
+  content:"";
+  display:table;
+  clear:both;
 }
-</style>
-</head>
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: lightgrey;
+  margin-top: 10px;
+}
+
+  </style>
+ </head>
+<body>
+
+<div class="header">
+  <h1>My Profile</h1>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <p> Name: Francis Dharmasiri</p>
+      <p> Student No: s9356542 - Under Graduate , OUA-EMIT</p>
+      <p> Email: s9356452@student.rmit.rdu.au</p>
+    </div>
+<div class="card">
+  <h1> About Me</h1>
+  <p> Will write about me soon . </p>
+  </div>
+ </div>
+</div>
+
+<div class="rightcolumn">
+  <div class="card">
+    <h1> Work Experience </h1>
+  </div>
+  <div class+"card">
+    <h1>Work Experience</h1>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Footer</h2>
+</div>
+
 </body>
 </html>
