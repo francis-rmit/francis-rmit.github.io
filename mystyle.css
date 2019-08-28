@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+h1 {
+     color: yellow;
+     text-align: center;
+}
+
+strong {
+  color: dodgerblue;
+  margin-left: 40px;
+     
+}
