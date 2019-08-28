@@ -1,5 +1,7 @@
 body {
   background-color: black;
+  border-left: 50px solid white;
+  border-right: 50px solid white;
 }
 
 h1 {
@@ -10,9 +12,4 @@ h1 {
 p {
   color: dodgerblue;
   margin-left: 40px;
-}
-
-p {
-  border-left: 50px solid white;
-  border-right: 50px solid white;
 }
