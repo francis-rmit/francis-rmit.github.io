@@ -1,7 +1,10 @@
 body {
-  background-color: black;
-  border-left: 150px solid white;
-  border-right: 150px solid white;
+  background-color: darkgrey ;
+  }
+
+page {
+  background-color: lightgrey;
+  width : 1400px;
 }
 
 h1 {
