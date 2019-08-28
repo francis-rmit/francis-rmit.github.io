@@ -11,6 +11,7 @@ h1 {
 }
 
 p {
+  font-size: smaller;
   color: teal;
   text-align: left;
 }
