@@ -2,6 +2,8 @@ body {
   background-color: lightgrey;
   width: 1400px;
   }
+  <style>
+  {box-sizing: border-box;}
 
 h1 {
      color: black;
