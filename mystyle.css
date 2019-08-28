@@ -1,18 +1,14 @@
 body {
-  background-color: darkgrey ;
+  background-color: lightgrey;
+  width: 1400px;
   }
 
-page {
-  background-color: lightgrey;
-  width : 1400px;
-}
-
 h1 {
-     color: yellow;
+     color: black;
      text-align: center;
 }
 
 p {
-  color: dodgerblue;
+  color: teal;
   margin-left: 40px;
 }
