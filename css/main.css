@@ -24,6 +24,7 @@ h1 {
     font-size: 48px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     text-align: left;
     font-size: 15px;
@@ -31,7 +32,7 @@ p {
     color:#000;
 }
 
-p.em {
+em {
 
     color: blue;
 }
